@@ -1,4 +1,4 @@
-# Code for NeurIPS submission "Larger language models do in-context learning differently."
+# Code for "Larger language models do in-context learning differently."
 
 Pipeline:
 1. Download data from HuggingFace using `create_huggingface_datasets.py`
